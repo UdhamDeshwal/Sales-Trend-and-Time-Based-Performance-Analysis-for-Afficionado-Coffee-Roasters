@@ -40,11 +40,6 @@ It is designed to help stakeholders make data-driven decisions quickly and clear
 
 ![Afficionado Coffee Analytics Dashboard](images/image.png)
 
-## 📚 Research & Media
-
-- Research Paper: Add your research paper link here
-- YouTube Video: Add your YouTube video link here
-
 ## 🏅 Project Score
 
 A professional project score section can be added here for evaluation or presentation purposes.
